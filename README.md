@@ -1,27 +1,26 @@
-I am **[Reeti Upmon](https://www.linkedin.com/in/reetiu/)**. 
+I am **[Ravi Goli](https://www.linkedin.com/in/ravigoli/)**. 
 
 ## Connect with Me🤝🏻! 
-<a href="https://github.com/reetiu/" target="_blank">
+<a href="https://github.com/ravigoli25/" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://www.linkedin.com/in/reetiu/" target="_blank">
+<a href="https://www.linkedin.com/in/ravigoli/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 
 <a href="https://medium.com/@reetiu" target="_blank">
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>
 
-I am an engineering graduate with over 15 years of collective work experience in the IT sector,  IT Training, and Customer service. 
+I have completed by Masters Degree in Information Systems with over 18 years of collective work experience in the IT and Cyber Security. 
 
-Currently, I am working as an  🔭 <b>Security Engineer with OneDigital, Australia</b>
+Currently, I am working as an  🔭 <b>Security Manager with Catch.com.au, Australia</b>
 
- I am  🎉 🎁 <b><i> AWS Community Builder (Security and Identity) </i></b> 🎁 🎉
+ I am  🎉 🎁 <b><i> Passionate about Cyber Security </i></b> 🎁 🎉
 
-The 👩‍💻 <b> AWS She Builds </b> program played a crucial role in my journey, providing invaluable support as I embarked on my AWS cloud learning and obtained the 🎯<b>Solution Architect Associate </b> certification. My enthusiasm for 👯 <b> AWS Cloud </b> is unwavering, and I am constantly eager to contribute and give back to the community.
-
-As part of my commitment to giving back to the community, I actively volunteer at <b>BSides Melbourne </b> and <b>AISA Melbourne</b>.
-My goal is to empower and guide aspiring individuals to become future leaders in the field of <b>AWS Cloud Security</b>. I am dedicated to nurturing their skills and fostering a supportive environment for their growth within the community.
+As part of my commitment to giving back to the Cyber Security community, I have created this Github Repo with a purpose of creating SIEM detection rules easily.
+At the heart 
+My goal is to empower and guide aspiring individuals to become Cyber Security future leaders in the field of <b>AWS Cloud Security</b>. I am dedicated to nurturing their skills and fostering a supportive environment for their growth within the community.
 
 I possess a strong command of both AWS and Azure. 
 
