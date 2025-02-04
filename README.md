@@ -12,13 +12,13 @@ I am **[Ravi Goli](https://www.linkedin.com/in/ravigoli/)**.
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>
 
-I have completed by Masters Degree in Information Systems with over 18 years of collective work experience in the IT and Cyber Security. 
+I have completed by Masters Degree in Information Systems with over 18 years of collective work experience in IT Integration and Cyber Security Space. 
 
 Currently, I am working as an  🔭 <b>Security Manager with Catch.com.au, Australia</b>
 
  I am  🎉 🎁 <b><i> Passionate about Cyber Security </i></b> 🎁 🎉
 
-As part of my commitment to giving back to the Cyber Security community, I have created this Github Repo with a purpose of creating SIEM detection rules easily.
+As part of my commitment to giving back to the Cyber Security community, I have created this Github Repo with a purpose of tailor made SIEM detection rules for easy implementation.
 At the heart 
 My goal is to empower and guide aspiring individuals to become Cyber Security future leaders in the field of <b>AWS Cloud Security</b>. I am dedicated to nurturing their skills and fostering a supportive environment for their growth within the community.
 
